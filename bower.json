@@ -1,0 +1,10 @@
+{
+  "name": "reset.js",
+  "version": "0.1.0",
+  "description": "JS reset.",
+  "homepage": "https://github.com/leecade/reset.js",
+  "authors": ["leecade <leecade@163.com>"],
+  "main": [
+  ],
+  "ignore": ["README.md"]
+}
